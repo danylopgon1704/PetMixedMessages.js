@@ -1,6 +1,6 @@
 // Expected Output The Ideal Pet and Song ♥
 const colorIdealPet = ['A pink', 'A blue', 'A green', 'A black', 'A red', 'A violet'];
-const animalIdeal = ['Rabit', 'Dog', 'Cat', 'Panda', 'Hamster', 'Pig'];
+const animalIdeal = ['Rabit 🐇', 'Dog 🐕', 'Cat 🐈‍⬛', 'Panda 🐼', 'Hamster 🐹', 'Pig 🐖'];
 const idealSong = ['New York City Cops', 'Stand By Me', 'Love Is A Laserquest', 'Ruby Tuesday', 'Let It Happen', 'Ocean Of Night'];
 const figure = ['૮ ･ ﻌ･ა','૮⍝• ᴥ •⍝ა', '૮ • ﻌ - ა','૮₍ ´• ˕ •` ₎ა','૮₍ 𝁽ܫ𝁽 ₎ა','૮ ´• ﻌ ´• ა' ]
 
